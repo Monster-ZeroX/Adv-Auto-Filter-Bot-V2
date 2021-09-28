@@ -4,16 +4,7 @@
 
 class Translation(object):
     
-    START_TEXT = """<b>Hey {}!!</b>
-<i>I'M AUTO FILTER BOT MAINTAINED BY @FZBOTS FOR FILTERING MEDIA IN YOUR CHANNEL ....😉
-
-Just Add Me To Your Group And Channel And Connect Them And See My Powers 🔥🔥😝
-
-⚠️JOIN @MovieParadiseOfficial & @MovieParadise_Official
-
-For More Details Click Help Button Below..
-@FZBOTS
-</i>"""    
+    START_TEXT = """"""    
     
     HELP_TEXT = """
 <b><i><u>How To Use Me!?</u></i></b>
